@@ -1,0 +1,16 @@
+{
+  "host_entries": [
+    {
+      "host_address": "AA-AA-AA-BC-12-54",
+      "host_address_desc": "TEST"
+    },
+    {
+      "host_address": "A0-D7-68-10-B6-FE",
+      "host_address_desc": "Pivot1"
+    },
+    {
+      "host_address": "BA-BA-BA-BA-BA-BA",
+      "host_address_desc": "TEST-BA"
+    }
+  ]
+}
